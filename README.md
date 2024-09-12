@@ -1,6 +1,6 @@
-## OGHE - Oncological Genomic analysis over HE
+# OGHE - Oncological Genomic analysis over HE
 
-The repository contains the code needed to replicate the experiments presented in "Enhancing privacy-preserving cancer classification with Convolutional Neural Networks". Dataset is available at https://drive.google.com/drive/folders/16taBYFtPdygWOZAS60Y6L3z9Z-YGSoIq?usp=sharing .
+The repository contains the code needed to replicate the experiments presented in "Enhancing privacy-preserving cancer classification with Convolutional Neural Networks", which will be published in the 2025 Pacific Symposium on Biocomputing. Dataset is available at https://drive.google.com/drive/folders/16taBYFtPdygWOZAS60Y6L3z9Z-YGSoIq?usp=sharing .
 
 In particular:
 - `.devcontainer` contains the files needed to create a devcontainer using VSCode;
